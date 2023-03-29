@@ -10,7 +10,7 @@
 * Оф. кошелек  ZkSync Era : https://portal.zksync.io/transfer
 * Проекты в экосистеме ZkSync : https://ecosystem.zksync.io/
 * Crew3 по ZkSync : https://crew3.xyz/c/zksync/questboard
-* Layer3 по ZkSync : https://layer3.xyz/quests/welcome-to-a-new-era
+* Layer3 по ZkSync : https://layer3.xyz/quests/welcome-to-a-new-era , https://layer3.xyz/quests/mute-zksync
 * Аналитика по ZkSync на Dune : https://dune.com/browse/dashboards?q=zksync
 
 # Действия :
